@@ -382,33 +382,3 @@ try:
 except Exception as err:
 
     print(err)
-
-# Noting Down Things which are Completed
-
-"""
-
-Function Created for "+"    -   Done
-
-Function Created for "*"    -   Done
-
-Function Created for "*2"   -   Done
-
-Function Created for "*3"   -   Done
-
-Function Created for "/2"   -   Done
-
-Function Created for "**"   -   Done
-
-Function Created for "t"    -   Done
-
-Function Created for "s"    -   Done
-
-Function Created for "c"    -   Done
-
-Function Created for "r"    -   Done
-
-Function Created for "/"    -   Done
-
-Function Created for "-"    -   Done
-
-"""
